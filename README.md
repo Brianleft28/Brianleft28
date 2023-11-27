@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning **Bootstrap, Javascript, Angular, React**
 
-- 👯 I’m looking to collaborate on [CodingCoffe](https://github.com/Brianleft28/CodingCoffe)
+<-- 👯 I’m looking to collaborate on [CodingCoffe](https://github.com/Brianleft28/CodingCoffe) -->
 
 - 📫 How to reach me **contactobrianleft@gmail.com**
 
