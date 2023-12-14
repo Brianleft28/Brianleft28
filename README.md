@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
-- 🔭 I’m currently working on [CodingCoffe](https://github.com/Brianleft28/CodingCoffe)
+- 🌱 Currently learning **Bootstrap, Javascript, php , mySql**
 
-- 🌱 Currently learning **Bootstrap, Javascript, Angular, React**
-
-<-- 👯 I’m looking to collaborate on [CodingCoffe](https://github.com/Brianleft28/CodingCoffe) -->
+< 👯 I’m looking to collaborate -->
 
 - 📫 How to reach me **contactobrianleft@gmail.com**
 
