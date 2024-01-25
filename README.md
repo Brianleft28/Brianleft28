@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
-- 🌱 Currently learning **Bootstrap, Javascript, php , mySql**
+- 🌱 Currently learning **React**
 
 < 👯 I’m looking to collaborate -->
 
