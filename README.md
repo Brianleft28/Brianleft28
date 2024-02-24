@@ -5,7 +5,7 @@
 
 < 👯 I’m looking to collaborate -->
 
-- 📫 How to reach me **contactobrianleft@gmail.com**
+- 📫 How to reach me **info@briandevs.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
