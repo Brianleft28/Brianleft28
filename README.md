@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
-- 🌱 Currently learning **React**
+- 🌱 Currently learning **Astro**
 
 < 👯 I’m looking to collaborate -->
 
-- 📫 How to reach me **info@briandevs.com**
+- 📫 How to reach me **contactobrianleft@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/brianleft28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brianleft28" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/brian-benegas-44770729b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian benegas" height="30" width="40" /></a>
 <a href="https://discord.gg/yQ4H98DN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="briansitomedicenn" height="30" width="40" /></a>
 </p>
