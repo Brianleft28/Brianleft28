@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
-- 🌱 Currently learning **Astro**
+- 🌱 Currently improving my  **Svelte And React** Skills
 
 < 👯 I’m looking to collaborate -->
-
-- 📫 How to reach me **contactobrianleft@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
