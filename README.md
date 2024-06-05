@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">A passionate developer from Argentina</h3>
+<h1 align="center">I'm Brian</h1>
 
 - 🌱 Currently improving my  **Svelte And React** Skills
 
