@@ -1,6 +1,6 @@
 <h1 align="center">I'm Brian</h1>
 
-- 🌱 Currently improving my  **Svelte And React** Skills
+- 🌱 Currently improving my  **Typescript** Skills
 
 < 👯 I’m looking to collaborate -->
 
