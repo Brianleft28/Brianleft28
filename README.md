@@ -15,11 +15,6 @@
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
 </p>
 
-<h3 align="left">Estadísticas de GitHub:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brianleft28&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
-</p>
-
 <h3 align="left">Certificaciones:</h3>
 <ul>
   <li><b> SQL | CODERHOUSE</b> - Fundamentos de bases de datos y consultas SQL.</li>
