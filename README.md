@@ -15,16 +15,6 @@
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
 </p>
 
-/*
-// <h3 align="left">Certificaciones:</h3>
-<ul>
-  <li><b> SQL | CODERHOUSE</b> - Fundamentos de bases de datos y consultas SQL.</li>
-  <li><b> Javascript | CODERHOUSE</b> - Desarrollo de aplicaciones web interactivas.</li>
-  <li><b> Typescript | PLATZI</b> - Introducción a TypeScript y sus características.</li>
-  <li><b> Typescript Tipos Avanzados | PLATZI</b> - Uso avanzado de tipos en TypeScript.</li>
- <li><b> Typescript POO | PLATZI</b> - Principios de programación orientada a objetos en TypeScript.</li>
-</ul>
-*/
 <h3 align="left">Contacto:</h3>
 <p align="left">
   📧 Email: <a href="mailto:tu-email@example.com">contactobrianleft@gmail.com</a>
