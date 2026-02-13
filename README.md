@@ -1,5 +1,4 @@
 **<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200" style="object-fit:cover; border-radius: 10px;"/>
   <h1>Hola, soy Brian Benegas 👋</h1>
   <h3>Arquitecto de Software | Especialista en IA & Automatización | Fundador de Pidgeon Solutions</h3>
   
