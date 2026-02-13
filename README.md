@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200" style="object-fit:cover; border-radius: 10px;"/>
   <h1>Hola, soy Brian Benegas 👋</h1>
   <h3>Arquitecto de Software | Especialista en IA & Automatización | Fundador de Pidgeon Solutions</h3>
@@ -63,3 +63,4 @@ Estoy construyendo la infraestructura digital del futuro para PYMEs y Gobierno.
   <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
 </div>
+**
