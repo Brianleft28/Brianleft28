@@ -1,5 +1,5 @@
-**<div align="center">
-  <h1>Hola, soy Brian Benegas 👋</h1>
+<div align="center">
+  <h1>Hola me llamo Brian Benegas</h1>
   <h3>Arquitecto de Software | Especialista en IA & Automatización | Fundador de Pidgeon Solutions</h3>
   
   <a href="https://www.linkedin.com/in/brian-benegas-44770729b/">
